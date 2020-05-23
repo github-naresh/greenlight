@@ -291,7 +291,7 @@ en:
     search:
       start: Start searching...
   landing:
-    about: "%{href} is a simple front-end for your Telehealth web conferencing server. You can create your own rooms to host sessions, or join others using a short and convenient link."
+    about: "%{href} is an earnest effort to connect the patients globally with doctors, clinics or even hospitals despite their remoteness through the internet for primary or even for a second expert consultation.  We firmly believe access to accessible eHealth services is a fundamental human right."
     welcome: Welcome to Accessible Doctors Telehealth.
     video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
